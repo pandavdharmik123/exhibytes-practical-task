@@ -1,0 +1,17 @@
+.sidebar {
+    padding: 24px;
+    height: 100vh;
+    background-color: #fff;
+    z-index: 1;
+    margin-right: 24px;
+    transition: 0.5s;
+}
+.sidebar-logo {
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.sidebar__menu {
+    position: relative;
+}
+
